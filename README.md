@@ -51,7 +51,7 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Checkout my public projects 👉 <a href="https://github.com/cyantiz?tab=repositories" target="_blank">Here</a>
+### Check out my public projects 👉 <a href="https://github.com/cyantiz?tab=repositories" target="_blank">Here</a>
 
 ### How to connect with me
 
