@@ -56,8 +56,8 @@
 ### How to connect with me
 
 <a href="https://www.linkedin.com/in/nguyenvanhoangnhan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/_emok1d/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/nguyenvanhoangnhan" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.instagram.com/_emok1d/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/user/lztzi0uzfhm1xltinqaswr0fy" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://myanimelist.net/profile/hoangnhan" target="_blank"><img src="https://img.shields.io/badge/MyAnimeList-%232C4F9D.svg?&style=for-the-badge&logo=MyAnimeList&logoColor=white" alt="MyAnimeList"></a>
 
