@@ -67,7 +67,7 @@
 <a href="https://open.spotify.com/user/lztzi0uzfhm1xltinqaswr0fy" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://myanimelist.net/profile/hoangnhan" target="_blank"><img src="https://img.shields.io/badge/MyAnimeList-%232C4F9D.svg?&style=for-the-badge&logo=MyAnimeList&logoColor=white" alt="MyAnimeList"></a>
 
-### Fun fact: I love music
+### Fun fact: I like to code while playing loud music
 
 My favorite albums:
 
